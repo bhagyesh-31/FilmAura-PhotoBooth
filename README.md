@@ -25,6 +25,29 @@ Built using **React + Vite**, FilmAura delivers fast performance and a clean use
 - **Version Control:** Git & GitHub
 
 ---
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+![Home Page](Screenshots/Home%20Page.png)
+
+---
+
+### 🪙 Coin Access PhotoBooth
+![Coin Access PhotoBooth](Screenshots/Coin_access_photobooth.png)
+
+---
+
+### 📷 Camera with Filters
+![Camera with Filters](Screenshots/Camera_with_some_Filters.png)
+
+---
+
+### 🖼️ Resulted Photo
+![Resulted Photo](Screenshots/Resulted_Photo.png)
+
+---
 
 ## 🚀 Getting Started
 
@@ -42,3 +65,16 @@ npm install
 
 # Start the development server
 npm run dev
+Open your browser and visit:
+
+http://localhost:5173
+```
+
+## 👤 Author
+
+**Bhagyesh Bhalerao**
+
+📧 Email: [bhagyeshbhalerao1@gmail.com](mailto:bhagyeshbhalerao1@gmail.com)  
+🔗 LinkedIn: [Bhagyesh Bhalerao](https://www.linkedin.com/in/bhagyesh-bhalerao-aa1639318)
+
+
